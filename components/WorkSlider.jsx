@@ -10,7 +10,7 @@ const projects = [
     name: "Financial Details",
     technology: "Excel, Power BI",
     link: "https://drive.google.com/file/d/1qO_aWHG6Um3bHNYoOjrpCQPZXy1zZ1IR/view?usp=drive_link",
-    image: '/thumb1.jpg',
+    image: '/piPower.png',
     description: "Created a Power BI financial dashboard for real-time insights on revenue, expenses, and profit margins."
   },
   {
@@ -24,7 +24,7 @@ const projects = [
     name: "Thirukkural API",
     technology: "HTML, CSS, JavaScript (DOM)",
     link: "https://thirukkural-1330-api.netlify.app/",
-    image: '/thumb3.jpg',
+    image: '/thirukural.png',
     description: "Built a Thirukkural lookup site using async/await for API calls to thirukkural."
   }
 ];
